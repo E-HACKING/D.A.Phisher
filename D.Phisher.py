@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : D.A.Phisher
+# ToolName   : D.Phisher
 # Author     : DARK-E
 # License    : MIT
 # Copyright  : KasRoudra (2022-2023)
@@ -122,12 +122,11 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 
 # Modifying this could be potentially dangerous
 logo = f"""
-{blue}  _____              _____  _     _     _               
-{blue} |  __ \     /\     |  __ \| |   (_)   | |              
-{blue} | |  | |   /  \    | |__) | |__  _ ___| |__   ___ _ __ 
-{blue} | |  | |  / /\ \   |  ___/| '_ \| / __| '_ \ / _ \ '__|
-{blue} | |__| | / ____ \ _| |    | | | | \__ \ | | |  __/ |   
-{blue} |_____(_)_/    \_(_)_|    |_| |_|_|___/_| |_|\___|_|   
+{blue}     ____    ____  __    _      __             
+{blue}    / __ \  / __ \/ /_  (_)____/ /_  ___  _____
+{blue}   / / / / / /_/ / __ \/ / ___/ __ \/ _ \/ ___/
+{blue}  / /_/ / / ____/ / / / (__  ) / / /  __/ /    
+{blue} /_____(_)_/   /_/ /_/_/____/_/ /_/\___/_/        
 {red}{" "*35}         [{blue}v{version[:16]}{yellow}]
        {cyan}{" "*36}[{blue}By {red}DARK-E{cyan}]
 """
